@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Witaj na GitHub Pages - mojego projektu
 
 You can use the [editor on GitHub](https://github.com/zawalidroga/github_pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
